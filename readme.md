@@ -1,10 +1,8 @@
-# 99Tech Code Challenge #1 #
-
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
-
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
-
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+#Nguyen Thien Hung
+#email: ngthienhung277@gmail.com
+#portfolio: https://milonguyen.vercel.app/
+#+84942970792 - Vietnam
+#linkedin: https://www.linkedin.com/in/nuenhung/
+# Problem1: added solution functions and some test cases.
+Run node index.js from terminal to run test cases and see result.
+#Link demo problem 2: https://dist-h5ynbj32a-milo-nguyens-projects.vercel.app/
