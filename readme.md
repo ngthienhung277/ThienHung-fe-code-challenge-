@@ -6,3 +6,4 @@
 # Problem1: added solution functions and some test cases.
 Run node index.js from terminal to run test cases and see result.
 # Link demo problem 2: https://dist-h5ynbj32a-milo-nguyens-projects.vercel.app/
+<img width="1512" alt="Screenshot 2025-06-17 at 17 01 27" src="https://github.com/user-attachments/assets/443d0415-be2b-401f-94c0-33368f8b32c0" />
